@@ -1,5 +1,5 @@
 <template>
-  <section class="shop-"></section>
+  <section class="shop-app"></section>
 </template>
 
 <script>
